@@ -2,6 +2,7 @@ package rock_the_jvm
 
 object Basics {
   def main(args: Array[String]): Unit = {
+
     // defining a value
      val meaningOfLife: Int = 42
     //meaningOfLife = 43

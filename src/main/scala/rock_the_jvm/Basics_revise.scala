@@ -4,6 +4,7 @@ object Basics_revise {
   def main(args: Array[String]): Unit = {
     println("Welcome to Scala Programming . i need to cover basics of scala Programming")
 
+    /*
     // defining value
 
     val meaningOfLife: Int = 42
@@ -51,15 +52,13 @@ object Basics_revise {
       y +" "+x
 
     }
-
-    //recursive functions
+  //recursive functions
 
      def fact(n: Int): Int ={
        if (n <= 1) 1
        else n*fact(n-1)
 
      }
-
     // in Scala we don't use loops or itrations , we use RECURsions
     // the unit return type = no meaning value == void in other language
     /*
@@ -74,7 +73,10 @@ object Basics_revise {
       println("i don't love returning Unit")
 
     }
+    */
 
+    // more example on val and val
+    
 
 
 
